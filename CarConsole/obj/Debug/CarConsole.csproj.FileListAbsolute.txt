@@ -1,0 +1,8 @@
+c:\users\ecofr\documents\visual studio 2015\Projects\MITA.Car\CarConsole\bin\Debug\CarConsole.exe.config
+c:\users\ecofr\documents\visual studio 2015\Projects\MITA.Car\CarConsole\bin\Debug\CarConsole.exe
+c:\users\ecofr\documents\visual studio 2015\Projects\MITA.Car\CarConsole\bin\Debug\CarConsole.pdb
+c:\users\ecofr\documents\visual studio 2015\Projects\MITA.Car\CarConsole\bin\Debug\Model.dll
+c:\users\ecofr\documents\visual studio 2015\Projects\MITA.Car\CarConsole\bin\Debug\Model.pdb
+c:\users\ecofr\documents\visual studio 2015\Projects\MITA.Car\CarConsole\obj\Debug\CarConsole.csprojResolveAssemblyReference.cache
+c:\users\ecofr\documents\visual studio 2015\Projects\MITA.Car\CarConsole\obj\Debug\CarConsole.exe
+c:\users\ecofr\documents\visual studio 2015\Projects\MITA.Car\CarConsole\obj\Debug\CarConsole.pdb
